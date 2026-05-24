@@ -1,0 +1,12 @@
+# Crucial: IGNORE THE VIRTUAL ENVIRONMENT (Caused the 884MB error)
+venv/
+
+# Ignore large model and data file types (Caused the 50MB/100MB errors)
+*.keras
+*.h5
+*.npy
+*.mp4
+*.zip
+
+# Ignore IDE settings
+.vscode/
