@@ -40,36 +40,6 @@ project_root/
 └── wlasl_dataset/
 ```
 
----
-
-## ⚙️ Installation and Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Surya270106/Dynamic-hand-gesture-recognition-using-WLASL-dataset-and-MediaPipe-based-models.git
-   cd Dynamic-hand-gesture-recognition-using-WLASL-dataset-and-MediaPipe-based-models
-   ```
-
-2. **Create and activate a virtual environment (optional but recommended)**
-   ```bash
-   python -m venv .venv
-   .venv\Scripts\activate  # on Windows
-   source .venv/bin/activate  # on macOS/Linux
-   ```
-
-3. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run the application**
-   ```bash
-   python app.py
-   ```
-   This will open your webcam and start detecting gestures in real-time.
-
----
-
 ## 📸 Output Example
 When the script is running, you’ll see:
 - Real-time video feed from your webcam  
