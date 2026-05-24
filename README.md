@@ -86,6 +86,6 @@ When the script is running, you’ll see:
 ---
 
 ## 👨‍💻 Author
-**Surya Teja**  
+**Dharshika Katta**  
 B.Tech in Computer Science (AI & ML)  
 Passionate about AI, computer vision, and building real-world intelligent systems.
